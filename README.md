@@ -91,12 +91,33 @@ To set up the project locally, follow these steps:
 4. Monitor budgets and spending trends through analytics dashboards.
 
 ## 📸 Screenshots
-<img src="https://github.com/yasuo72/assests/blob/main/WhatsApp%20Image%202025-03-20%20at%2009.37.08_ac637406.jpg" alt="Dashboard" height="400px">
-<img src="https://github.com/yasuo72/assests/blob/main/WhatsApp%20Image%202025-03-20%20at%2009.37.08_64d324cc.jpg" alt="Dashboard" height="400px">
-<img src="https://github.com/yasuo72/assests/blob/main/WhatsApp%20Image%202025-03-20%20at%2009.37.08_85761466.jpg" alt="Dashboard" height="400px">
-<img src="https://github.com/yasuo72/assests/blob/main/WhatsApp%20Image%202025-03-20%20at%2009.37.08_fc850265.jpg" alt="Dashboard" height="400px">
-<img src="https://github.com/yasuo72/assests/blob/main/WhatsApp%20Image%202025-03-20%20at%2009.50.03_8051a070.jpg" alt="Dashboard" height="400px">
-<img src="https://github.com/yasuo72/assests/blob/main/image.png" alt="Dashboard" height="400px">
+<table>
+  <tr>
+    <th>Dashboard</th>
+    <th>Statistic</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/yasuo72/assests/blob/main/WhatsApp%20Image%202025-03-20%20at%2009.37.08_ac637406.jpg" alt="Dashboard" height="400px"></td>
+    <td><img src="https://github.com/yasuo72/assests/blob/main/WhatsApp%20Image%202025-03-20%20at%2009.37.08_64d324cc.jpg" alt="Statistic" height="400px"></td>
+  </tr>
+  <tr>
+    <th>Search</th>
+    <th>Category</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/yasuo72/assests/blob/main/WhatsApp%20Image%202025-03-20%20at%2009.37.08_85761466.jpg" alt="Search" height="400px"></td>
+    <td><img src="https://github.com/yasuo72/assests/blob/main/WhatsApp%20Image%202025-03-20%20at%2009.37.08_fc850265.jpg" alt="Category" height="400px"></td>
+  </tr>
+  <tr>
+    <th>Dark Mode</th>
+    <th>Settings</th>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/yasuo72/assests/blob/main/WhatsApp%20Image%202025-03-20%20at%2009.50.03_8051a070.jpg" alt="Dark Mode" height="400px"></td>
+    <td><img src="https://github.com/yasuo72/assests/blob/main/image.png" alt="Settings" height="400px"></td>
+  </tr>
+</table>
+
 
 
 
