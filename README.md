@@ -56,6 +56,13 @@ The **Personal Expense Management App** is an advanced AI-powered financial assi
 - **Styling**: Tailwind CSS
 - **Analytics**: Machine Learning for predictive insights
 
+
+## Download APK 📱
+You can download the latest version of the app here:
+
+[![Download APK](https://img.shields.io/badge/Download-APK-blue.svg)](https://github.com/your-username/repo-name/releases/latest/download/app-release.apk)
+
+
 ## 🛠 Installation
 To set up the project locally, follow these steps:
 
