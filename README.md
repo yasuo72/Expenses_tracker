@@ -92,6 +92,12 @@ To set up the project locally, follow these steps:
 
 ## 📸 Screenshots
 <img src="https://github.com/yasuo72/assests/blob/main/WhatsApp%20Image%202025-03-20%20at%2009.37.08_ac637406.jpg" alt="Dashboard" height="400px">
+<img src="https://github.com/yasuo72/assests/blob/main/WhatsApp%20Image%202025-03-20%20at%2009.37.08_64d324cc.jpg" alt="Dashboard" height="400px">
+<img src="https://github.com/yasuo72/assests/blob/main/WhatsApp%20Image%202025-03-20%20at%2009.37.08_85761466.jpg" alt="Dashboard" height="400px">
+<img src="https://github.com/yasuo72/assests/blob/main/WhatsApp%20Image%202025-03-20%20at%2009.37.08_fc850265.jpg" alt="Dashboard" height="400px">
+<img src="https://github.com/yasuo72/assests/blob/main/WhatsApp%20Image%202025-03-20%20at%2009.50.03_8051a070.jpg" alt="Dashboard" height="400px">
+<img src="https://github.com/yasuo72/assests/blob/main/image.png" alt="Dashboard" height="400px">
+
 
 ![Add Expense](https://via.placeholder.com/600x300)
 
