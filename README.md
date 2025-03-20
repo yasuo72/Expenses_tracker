@@ -98,9 +98,9 @@ To set up the project locally, follow these steps:
     <th>Search</th>
   </tr>
   <tr>
-    <td><img src="https://github.com/yasuo72/assests/blob/main/WhatsApp%20Image%202025-03-20%20at%2009.37.08_ac637406.jpg" alt="Dashboard" height="350px" style="margin:10px;"></td>
-    <td><img src="https://github.com/yasuo72/assests/blob/main/WhatsApp%20Image%202025-03-20%20at%2009.37.08_64d324cc.jpg" alt="Statistic" height="350px" style="margin:10px;"></td>
-    <td><img src="https://github.com/yasuo72/assests/blob/main/WhatsApp%20Image%202025-03-20%20at%2009.37.08_85761466.jpg" alt="Search" height="350px" style="margin:10px;"></td>
+    <td><img src="https://github.com/yasuo72/assests/blob/main/WhatsApp%20Image%202025-03-20%20at%2009.37.08_ac637406.jpg" alt="Dashboard" height="400px" style="margin:20px;"></td>
+    <td><img src="https://github.com/yasuo72/assests/blob/main/WhatsApp%20Image%202025-03-20%20at%2009.37.08_64d324cc.jpg" alt="Statistic" height="400px" style="margin:20px;"></td>
+    <td><img src="https://github.com/yasuo72/assests/blob/main/WhatsApp%20Image%202025-03-20%20at%2009.37.08_85761466.jpg" alt="Search" height="400px" style="margin:20px;"></td>
   </tr>
   <tr>
     <th>Category</th>
@@ -108,14 +108,12 @@ To set up the project locally, follow these steps:
     <th>Settings</th>
   </tr>
   <tr>
-    <td><img src="https://github.com/yasuo72/assests/blob/main/WhatsApp%20Image%202025-03-20%20at%2009.37.08_fc850265.jpg" alt="Category" height="350px" style="margin:10px;"></td>
-    <td><img src="https://github.com/yasuo72/assests/blob/main/WhatsApp%20Image%202025-03-20%20at%2009.50.03_8051a070.jpg" alt="Dark Mode" height="350px" style="margin:10px;"></td>
-    <td><img src="https://github.com/yasuo72/assests/blob/main/image.png" alt="Settings" height="350px" style="margin:10px;"></td>
+    <td><img src="https://github.com/yasuo72/assests/blob/main/WhatsApp%20Image%202025-03-20%20at%2009.37.08_fc850265.jpg" alt="Category" height="400px" style="margin:20px;"></td>
+    <td><img src="https://github.com/yasuo72/assests/blob/main/WhatsApp%20Image%202025-03-20%20at%2009.50.03_8051a070.jpg" alt="Dark Mode" height="400px" style="margin:20px;"></td>
+    <td><img src="https://github.com/yasuo72/assests/blob/main/image.png" alt="Settings" height="400px" style="margin:20px;"></td>
   </tr>
 </table>
 
-## 📡 API Documentation
-For detailed API documentation, refer to [API Docs](https://your-api-docs-link.com).
 
 ## ✅ Testing
 To run tests for the application, use the command:
@@ -146,9 +144,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 📧 Contact
 For inquiries and collaborations:
-- **Name**: [Your Name]
-- **Email**: [your.email@example.com]
-- **GitHub**: [Your GitHub Profile](https://github.com/your-username)
+- **Name**: [Rohit Singh]
+- **Email**: [rs965198@gmail.com]
+- **GitHub**: [Your GitHub Profile](https://github.com/yasuo72)
 
 🚀 _Take control of your finances today with the Personal Expense Management App!_ 🚀
 
