@@ -22,9 +22,6 @@
 The **Personal Expense Management App** is an advanced AI-powered financial assistant that helps users seamlessly manage their expenses. It provides powerful features for tracking transactions, budgeting, and generating insights with a futuristic UI/UX.
 
 ## 🔥 Features
-- **🔑 Secure Authentication**
-  - Firebase authentication with email verification
-  - Secure login and password recovery
 
 - **💰 Expense Tracking**
   - Add, edit, and delete expenses effortlessly
@@ -49,9 +46,7 @@ The **Personal Expense Management App** is an advanced AI-powered financial assi
 - **🌓 Dark Mode & Theming**
   - Modern UI with dark mode toggle
 
-- **🧠 AI-Powered Insights**
-  - Smart recommendations based on spending patterns
-  - Predictive analytics for future budgeting
+
 
 ## ⚙️ Technologies Used
 - **Frontend**: Flutter (Dart)
