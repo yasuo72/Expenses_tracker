@@ -60,7 +60,7 @@ The **Personal Expense Management App** is an advanced AI-powered financial assi
 ## Download APK 📱
 You can download the latest version of the app here:
 
-[![Download APK](https://img.shields.io/badge/Download-APK-blue.svg)](https://github.com/yasuo72/Expense_tracker/releases/latest/download/app-release.apk)
+[![Download APK](https://img.shields.io/badge/Download-APK-blue.svg)](https://github.com/yasuo72/Expenses_tracker/releases/tag/v1.0.0/app-release.apk)
 
 
 ## 🛠 Installation
