@@ -3,7 +3,7 @@ import 'package:hive/hive.dart';
 import 'package:intl/intl.dart';
 
 final box = Hive.box<Transaction>('transactions');
-String selectedCurrency = 'INR'; // डिफ़ॉल्ट करेंसी
+String selectedCurrency = 'INR'; // Default currency set to INR
 
 int totalBalance() {
   var transactions = box.values.toList();
@@ -91,11 +91,13 @@ List<int> time(List<Transaction> transactions, bool hour, bool day, bool month) 
   return totals;
 }
 
+// Updated function for INR formatting
 String formatCurrency(int value) {
-  final format = NumberFormat.currency(symbol: '', decimalDigits: 0, locale: 'en_US');
-  return '${getCurrencySymbol(selectedCurrency)}${format.format(value)}';
+  final format = NumberFormat.currency(symbol: '₹', decimalDigits: 2, locale: 'hi_IN');
+  return format.format(value);
 }
 
+// Currency symbol function (No changes needed)
 String getCurrencySymbol(String currencyCode) {
   switch (currencyCode) {
     case 'USD':

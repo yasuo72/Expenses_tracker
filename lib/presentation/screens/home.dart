@@ -3,6 +3,7 @@ import 'package:expanse_management/data/utilty.dart';
 import 'package:expanse_management/domain/models/transaction_model.dart';
 import 'package:flutter/material.dart';
 import 'package:hive_flutter/adapters.dart';
+import 'package:expanse_management/presentation/screens/settings.dart';
 
 class Home extends StatefulWidget {
   const Home({super.key});
@@ -159,29 +160,36 @@ class _HomeState extends State<Home> {
                   bottomRight: Radius.circular(20),
                 ),
               ),
-              child: Stack(
-                children: [
-                  Positioned(
-                    top: 30,
-                    right: 30,
-                    child: IconButton(
-                      onPressed: () {},
-                      icon: const Icon(Icons.settings, color: Colors.white),
-                    ),
-                  ),
-                  const Padding(
-                    padding: EdgeInsets.only(top: 40, left: 30),
-                    child: Text(
-                      "Dashboard",
-                      style: TextStyle(
-                        fontWeight: FontWeight.w500,
-                        fontSize: 22,
-                        color: Colors.white,
-                      ),
-                    ),
-                  ),
-                ],
+      child: Stack(
+        children: [
+          Positioned(
+            top: 30,
+            right: 30,
+            child: IconButton(
+              onPressed: () {
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(builder: (context) => SettingsScreen()),
+                );
+              },
+              icon: const Icon(Icons.settings, color: Colors.white),
+            ),
+          ),
+          const Padding(
+            padding: EdgeInsets.only(top: 40, left: 30),
+            child: Text(
+              "Dashboard",
+              style: TextStyle(
+                fontWeight: FontWeight.w500,
+                fontSize: 22,
+                color: Colors.white,
               ),
+            ),
+          ),
+        ],
+      ),
+
+
             ),
           ],
         ),
