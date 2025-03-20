@@ -68,23 +68,18 @@ To set up the project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/<your-username>/Personal-Expense-Management-App.git
+   git clone https://github.com/yasuo72/Expenses_tracker.git
    ```
 2. **Navigate to the project directory**:
    ```bash
-   cd Personal-Expense-Management-App
+   cd Expenses_tracker
    ```
 3. **Install dependencies**:
    ```bash
    flutter pub get
    ```
-4. **Set up environment variables**:
-   Create a `.env` file in the root directory and add:
-   ```plaintext
-   MONGODB_URI=<your_mongodb_uri>
-   JWT_SECRET=<your_jwt_secret>
-   ```
-5. **Run the application**:
+
+4. **Run the application**:
    ```bash
    flutter run
    ```
@@ -96,7 +91,7 @@ To set up the project locally, follow these steps:
 4. Monitor budgets and spending trends through analytics dashboards.
 
 ## 📸 Screenshots
-![Dashboard](https://via.placeholder.com/600x300)
+![Dashboard](https://github.com/yasuo72/assests/blob/main/WhatsApp%20Image%202025-03-20%20at%2009.37.08_ac637406.jpg)
 ![Add Expense](https://via.placeholder.com/600x300)
 
 ## 📡 API Documentation
