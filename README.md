@@ -91,7 +91,8 @@ To set up the project locally, follow these steps:
 4. Monitor budgets and spending trends through analytics dashboards.
 
 ## 📸 Screenshots
-![Dashboard](https://github.com/yasuo72/assests/blob/main/WhatsApp%20Image%202025-03-20%20at%2009.37.08_ac637406.jpg)
+<img src="https://github.com/yasuo72/assests/blob/main/WhatsApp%20Image%202025-03-20%20at%2009.37.08_ac637406.jpg" alt="Dashboard" height="400px">
+
 ![Add Expense](https://via.placeholder.com/600x300)
 
 ## 📡 API Documentation
